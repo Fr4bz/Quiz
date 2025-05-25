@@ -1312,6 +1312,6 @@
     "options": ["Un tipo di database", "Un'architettura per la progettazione di API web che utilizza il protocollo HTTP", "Un linguaggio di programmazione", "Un sistema operativo"],
     "correct": 1,
     "explanation": "RESTful API è un'architettura per la progettazione di interfacce di programmazione delle applicazioni (API) web che si basa sui principi del protocollo HTTP, rendendo le API più semplici, scalabili e facili da usare."
-  },
-];
+  }
+]
 
