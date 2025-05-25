@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Quiz/quiz-ader-riscossione/static/css/main.e6c13ad2.css",
-    "main.js": "/Quiz/quiz-ader-riscossione/static/js/main.8e7f2fc6.js",
-    "static/js/453.37bfa35c.chunk.js": "/Quiz/quiz-ader-riscossione/static/js/453.37bfa35c.chunk.js",
-    "index.html": "/Quiz/quiz-ader-riscossione/index.html",
-    "main.e6c13ad2.css.map": "/Quiz/quiz-ader-riscossione/static/css/main.e6c13ad2.css.map",
-    "main.8e7f2fc6.js.map": "/Quiz/quiz-ader-riscossione/static/js/main.8e7f2fc6.js.map",
-    "453.37bfa35c.chunk.js.map": "/Quiz/quiz-ader-riscossione/static/js/453.37bfa35c.chunk.js.map"
+    "main.css": "/Quiz/static/css/main.e6c13ad2.css",
+    "main.js": "/Quiz/static/js/main.d0d1627d.js",
+    "static/js/453.37bfa35c.chunk.js": "/Quiz/static/js/453.37bfa35c.chunk.js",
+    "index.html": "/Quiz/index.html",
+    "main.e6c13ad2.css.map": "/Quiz/static/css/main.e6c13ad2.css.map",
+    "main.d0d1627d.js.map": "/Quiz/static/js/main.d0d1627d.js.map",
+    "453.37bfa35c.chunk.js.map": "/Quiz/static/js/453.37bfa35c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8e7f2fc6.js"
+    "static/js/main.d0d1627d.js"
   ]
 }
