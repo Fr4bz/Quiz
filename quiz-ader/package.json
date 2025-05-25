@@ -1,8 +1,6 @@
 {
   "name": "quiz-ader",
   "private": true,
-  "homepage": "https://Fr4bz.github.io/Quiz/",
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
