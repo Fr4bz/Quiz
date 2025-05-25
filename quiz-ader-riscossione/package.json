@@ -1,7 +1,7 @@
 {
   "name": "quiz-ader-riscossione",
   "version": "0.1.0",
-  "homepage": "https://Fr4bz.github.io/quiz-ader-riscossione",
+  "homepage": "https://Fr4bz.github.io/Quiz/quiz-ader-riscossione",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
